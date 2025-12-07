@@ -1,0 +1,866 @@
+[
+  {
+    "category": "Animals",
+    "word": "lion",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "zebra",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "giraffe",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "leopard",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "crane",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "snake",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "gorilla",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "baboon",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "buffalo",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "chimpanzee",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "monkey",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "impala",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "rhinoceros",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "warthog",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "zebu",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "stork",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "eagle",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "pigeon",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "mongoose",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "lizard",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "crocodile",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "parrot",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "cuckoo",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "elephant",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "bird",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "butterfly",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "firefly",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "bee",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "bumblebee",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "mouse",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "rat",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "ant",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "cockroach",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "rabbit",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "mole",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "bat",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "cheetah",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "hippopotamus",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "gazelle",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "cat",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "dog",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "donkey",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "cow",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "pig",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "hen",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "rooster",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "chicken",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "goat",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "sheep",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "catfish",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "duck",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "goose",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "turkey",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "fox",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "squirrel",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "owl",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "seagull",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "peacock",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "penguin",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "bear",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "jackal",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "wolf",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "boar",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "deer",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "hedgehog",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "llama",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "termite",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "kangaroo",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "panda",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "koala",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "ostrich",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "reindeer",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "whale",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "dolphin",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "tuna",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "horse",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "pony",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "vulture",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "orangutan",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "gibbon",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "moose",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "bison",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "anaconda",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "python",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "seal",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "albatross",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "frog",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "toad",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "camel",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "jaguar",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "porcupine",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "otter",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "eel",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "cobra",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "falcon",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "shark",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "walrus",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "yak",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "crab",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "spider",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "turtle",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "snail",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "dragonfly",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "octopus",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "beaver",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "crow",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "chameleon",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "flamingo",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "ox",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "puppy",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "tiger",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "hyena",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "antelope",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "hippo",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "rhino",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "kitten",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "cock",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "bunny",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "hare",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "piglet",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "lamb",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "calf",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "bull",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "duckling",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "cub",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "poultry",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "fish",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "reptile",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "rodent",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "cattle",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "mosquito",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "earthworm",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "jellyfish",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "beetle",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "alligator",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "flea",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "mite",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "spoonbill",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "caterpillar",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "raccoon",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "badger",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "salamander",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "mule",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "grasshopper",
+    "difficulty": "Medium",
+    "language": "English"
+  }
+]

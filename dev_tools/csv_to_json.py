@@ -12,7 +12,7 @@ def generate_source_path(category, language):
     return f"wordgame - {category} {language}.csv"
 
 def generate_target_path(asset_dir, category, language):
-    return f"{asset_dir}/exercises_{category.lower()}_{language.lower()}.json"
+    return f"{asset_dir}/exercises_{category.lower().replace(" ", "_")}_{language.lower().replace(" ", "_")}.json"
 
 def parse_arguments():
     parser = argparse.ArgumentParser()

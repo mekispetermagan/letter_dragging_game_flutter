@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:letterdragging/state_controller.dart';
 
 
 
@@ -45,7 +46,7 @@ class MainApp extends StatelessWidget {
 }
 
 class HomePage extends StatefulWidget {
-  const HomePage();
+  const HomePage({super.key});
 
   @override
   State<StatefulWidget> createState() {
@@ -53,9 +54,25 @@ class HomePage extends StatefulWidget {
   }
 }
 
+
+
 class HomePageState extends State<HomePage> {
   String _debugMessage = "";
+  final StateController _controller = StateController();
   HomePageState();
+
+  @override
+  void initState() {
+    _controller.state.addListener(_onStateChanged);
+  }
+
+  @override
+  void dispose() {
+    _controller.state.removeListener(_onStateChanged);
+    super.dispose();
+  }
+
+  void _onStateChanged() => setState(() {});
 
   void _onReorder(int i, int j) => setState(() => _debugMessage = "i: $i, j: $j");
 

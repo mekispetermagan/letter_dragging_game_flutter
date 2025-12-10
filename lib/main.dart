@@ -54,19 +54,28 @@ class HomePage extends StatefulWidget {
 }
 
 class HomePageState extends State<HomePage> {
+  String _debugMessage = "";
   HomePageState();
+
+  void _onReorder(int i, int j) => setState(() => _debugMessage = "i: $i, j: $j");
 
   @override
   Widget build(BuildContext context) {
     final String word = "GRANDMA";
     return Scaffold(
+      appBar: AppBar(
+        title: Text(
+          "grandma $_debugMessage",
+          style: TextStyle(color: Colors.black,),
+        ),
+      ),
       body: Center(
         child: SizedBox(
           height: 48,
           child: ReorderableListView(
             buildDefaultDragHandles: false,
             scrollDirection: Axis.horizontal,
-            onReorder: (int i, int j) => {},
+            onReorder: (int i, int j) => _onReorder(i, j),
             proxyDecorator: (Widget child, int index, Animation<double> animation) {
               return ClipRRect(
                 borderRadius: BorderRadius.circular(16), // match your Card radius

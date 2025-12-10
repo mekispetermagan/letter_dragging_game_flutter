@@ -1,5 +1,4 @@
 import 'dart:math';
-import 'package:meta/meta.dart';
 
 void _validatePair(String word, int difficulty) {
   if (difficulty <= 0) {
@@ -22,7 +21,6 @@ bool shufflablePair({required String word, required int difficulty}) {
   return true;
 }
 
-@visibleForTesting
 String swap(String word, int i, int j) {
   final int lower = min(i, j);
   final int upper = max(i, j);
@@ -68,3 +66,44 @@ String shuffle({
   result = _swapRandomPair(result, random, avoidWord: word);
   return result;
 }
+
+// word: ZEBRA            from == to: no ins
+// from: 3
+// to:   3
+// ZEBRA  ->  ZEBRA
+// 01234      01234
+//    ^from      ^to
+//
+// word: AZEBR            from < to:  ins = to - 1
+// from: 0
+// to:   4
+// AZEBR  ->  ZEBR  ->  ZEBRA
+// 01234      0123      01234
+// ^from          ^ins      ^to
+//
+// word: ZBREA            to < from:  ins = to
+// from: 3
+// to:   1
+// ZBREA  ->  ZBRA  -> ZEBRA
+// 01234      0123     01234
+//    ^from    ^ins     ^to
+//
+String moveChar({
+  required String word,
+  required int from,
+  required int to
+  }) {
+    if (to < from) {
+      return word.substring(0, to) +
+             word[from] +
+             word.substring(to, from) +
+             word.substring(from+1);
+    }
+    if (from < to) {
+      return word.substring(0, from) +
+             word.substring(from+1, to+1) +
+             word[from] +
+             word.substring(to+1);
+    }
+    return word;
+  }

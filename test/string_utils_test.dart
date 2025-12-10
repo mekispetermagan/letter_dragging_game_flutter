@@ -2,6 +2,12 @@ import 'package:flutter_test/flutter_test.dart';
 import 'dart:math';
 import 'package:letterdragging/string_utils.dart';
 
+// Tests for
+// - swap
+// - shufflablePair
+// - shuffle
+// - moveChar
+
 typedef Case = ({String first, String second, int i, int j});
 
 String randomWord(int length, Random r) => [
@@ -50,6 +56,26 @@ int differenceCount(String word1, String word2) {
   }
   return counter;
 }
+
+// TODO: fix moveCharAlt
+String moveCharAlt({
+  required String word,
+  required int from,
+  required int to
+}) {
+    String result = "";
+    int d = 0;
+    for(int i=0; i<word.length; i++) {
+      if (i + d == from) { d -= 1; }
+      else if (i + d == to) {
+        result += word[from];
+        d += 1;
+      } else {
+        result += word[i+d];
+      }
+    }
+    return result;
+      }
 
 void main() {
   group("swap tests", () {
@@ -203,6 +229,34 @@ void main() {
             }
           }
         }
+      }
+    });
+  });
+
+  group("moveChar tests", () {
+    test("simple cases", () {
+      final String case0 = moveChar(word: "azebr", from: 0, to: 4);
+      expect(case0, "zebra", reason: "azebr 0 4");
+      final String case1 = moveChar(word: "ebraz", from: 4, to: 0);
+      expect(case1, "zebra", reason: "ebraz 4 0");
+      final String case2 = moveChar(word: "zerba", from: 2, to: 3);
+      expect(case2, "zebra", reason: "zerba 2 3");
+      final String case3 = moveChar(word: "zbrea", from: 3, to: 1);
+      expect(case3, "zebra", reason: "zbrea 3 1");
+      final String case4 = moveChar(word: "zebra", from: 1, to: 1);
+      expect(case4, "zebra", reason: "zebra 3 3");
+    });
+    test("matches alternative implementation", () {
+      final Random r = Random(1234);
+      for (int i=0; i<100; i++) {
+        final int length = r.nextInt(12)+2;
+        final String word = randomWord(length, r);
+        final int from = r.nextInt(length);
+        final int to = r.nextInt(length);
+        expect(
+          moveChar(word: word, from: from, to: to),
+          moveCharAlt(word: word, from: from, to: to)
+        );
       }
     });
   });

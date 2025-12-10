@@ -1,0 +1,1004 @@
+[
+  {
+    "category": "Shopping",
+    "Column 2": "money",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "coin",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "note",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "price",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "cost",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "shop",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "market",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "supermarket",
+    "Column 3": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "vendor",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "seller",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "buyer",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "customer",
+    "Column 3": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "cash",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "wallet",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "bag",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "basket",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "trolley",
+    "Column 3": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "stall",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "counter",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "bill",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "receipt",
+    "Column 3": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "change",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "discount",
+    "Column 3": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "sale",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "bargain",
+    "Column 3": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "queue",
+    "Column 3": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "milk",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "bongo",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "yoghurt",
+    "Column 3": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "soda",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "juice",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "water",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "tea",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "coffee",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "sugar",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "salt",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "flour",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "rice",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "pasta",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "oil",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "beans",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "peas",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "lentils",
+    "Column 3": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "maize",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "posho",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "bread",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "chapati",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "egg",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "tomato",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "onion",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "garlic",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "cabbage",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "carrot",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "potato",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "irish",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "cassava",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "matoke",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "yam",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "pumpkin",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "spinach",
+    "Column 3": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "pepper",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "cucumber",
+    "Column 3": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "banana",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "plantain",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "pineapple",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "mango",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "orange",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "lemon",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "watermelon",
+    "Column 3": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "papaya",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "avocado",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "apple",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "guava",
+    "Column 3": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "jackfruit",
+    "Column 3": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "passion",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "meat",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "beef",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "pork",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "chicken",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "fish",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "sausage",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "liver",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "offal",
+    "Column 3": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "cup",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "mug",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "glass",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "plate",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "bowl",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "spoon",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "fork",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "knife",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "pot",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "pan",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "kettle",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "jug",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "tray",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "thermos",
+    "Column 3": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "nail",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "screw",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "hammer",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "saw",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "spade",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "hoe",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "rope",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "wire",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "bulb",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "battery",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "torch",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "soap",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "shampoo",
+    "Column 3": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "brush",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "broom",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "mop",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "sponge",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "towel",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "bucket",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "radio",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "phone",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "fan",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "iron",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "stove",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "cooker",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "fridge",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "television",
+    "Column 3": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "charger",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "lamp",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "pants",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "shirt",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "skirt",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "dress",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "shorts",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "sweater",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "jacket",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "coat",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "socks",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "shoes",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "sandals",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "boots",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "hat",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "cap",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "scarf",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "belt",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "uniform",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "matches",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "toothpick",
+    "Column 3": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "razor",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "comb",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "mirror",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "diaper",
+    "Column 3": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "tissue",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "candle",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "sweet",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "candy",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "chocolate",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "biscuit",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "cake",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "cookie",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "chips",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "crisps",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "popcorn",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "icecream",
+    "Column 3": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "lollipop",
+    "Column 3": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "gum",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "airtime",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "data",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "ticket",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "Column 2": "lottery",
+    "Column 3": "Hard",
+    "language": "English"
+  }
+]

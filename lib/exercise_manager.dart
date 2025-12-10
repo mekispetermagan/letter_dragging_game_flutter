@@ -1,17 +1,19 @@
+import 'models.dart';
 import 'string_utils.dart';
 
 class ExerciseManager {
   final String _solution;
   late String _word;
-  late int _difficulty;
   ExerciseManager({
-    required String word,
-    required String _difficulty,
-  }) : _solution = word, _word = _shuffle(word, 2);
-  {
+    required Exercise exercise,
+  })
+  : _solution = exercise.word,
+    _word = shuffle(word: exercise.word, difficulty: exercise.difficulty.level);
 
+  bool get isSolved => _word == _solution;
+
+  void moveLetter(int i, int j) {
+    _word = moveChar(word: _word, from: i, to: j);
   }
-
-
 }
 

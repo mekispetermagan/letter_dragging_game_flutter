@@ -1,0 +1,776 @@
+[
+  {
+    "category": "Places",
+    "Column 2": "home",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "house",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "hut",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "room",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "bedroom",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "kitchen",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "bathroom",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "toilet",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "yard",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "compound",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "garden",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "farm",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "school",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "class",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "classroom",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "office",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "shop",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "market",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "supermarket",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "bank",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "hospital",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "clinic",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "church",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "mosque",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "temple",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "hotel",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "restaurant",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "cafe",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "bar",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "library",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "road",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "street",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "bridge",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "highway",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "path",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "village",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "town",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "city",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "capital",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "park",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "playground",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "stadium",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "theatre",
+    "Column 3": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "cinema",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "busstop",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "station",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "airport",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "harbour",
+    "Column 3": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "border",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "forest",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "jungle",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "bush",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "desert",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "island",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "beach",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "shore",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "hill",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "mountain",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "valley",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "cave",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "field",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "swamp",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "river",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "lake",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "waterfall",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "sea",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "ocean",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "sky",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "space",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "world",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "earth",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Africa",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Europe",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Asia",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "America",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Uganda",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Kenya",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Tanzania",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Rwanda",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Congo",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Sudan",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Egypt",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "China",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "India",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Japan",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Korea",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Russia",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "England",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "France",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Germany",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Italy",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Spain",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Brazil",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Canada",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Kampala",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Entebbe",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Jinja",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Gulu",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Mbarara",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Nairobi",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Dar",
+    "Column 3": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "London",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Paris",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Rome",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Dubai",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Tokyo",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Victoria",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Nile",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Kyoga",
+    "Column 3": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Albert",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Turkana",
+    "Column 3": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "palace",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "castle",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "prison",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "slum",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "township",
+    "Column 3": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "marketplace",
+    "Column 3": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "moon",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "sun",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "planet",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "star",
+    "Column 3": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "galaxy",
+    "Column 3": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "universe",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Mars",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "Jupiter",
+    "Column 3": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "rocket",
+    "Column 3": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "spaceship",
+    "Column 3": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "satellite",
+    "Column 3": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "Column 2": "comet",
+    "Column 3": "Hard",
+    "language": "English"
+  }
+]

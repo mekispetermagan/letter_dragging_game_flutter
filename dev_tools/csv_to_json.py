@@ -5,22 +5,23 @@ import os
 
 CAT = "category"
 LANG = "language"
-ADIR = "assetdir"
-DEFAULT_DIR = "../assets/data"
+SOURCE_DIR = "./exercises_csv"
+TARGET_DIR = "./exercises_json"
 
 def generate_source_path(category, language):
-    return f"wordgame - {category} {language}.csv"
+    return f"{SOURCE_DIR}/wordgame - {category} {language}.csv"
 
-def generate_target_path(asset_dir, category, language):
-    return f"{asset_dir}/exercises_{category.lower().replace(" ", "_")}_{language.lower().replace(" ", "_")}.json"
+def generate_target_path(category, language):
+    cat_snake = category.lower().replace(" ", "_")
+    lang_snake = language.lower().replace(" ", "_")
+    return f"{TARGET_DIR}/exercises_{cat_snake}_{lang_snake}.json"
 
 def parse_arguments():
     parser = argparse.ArgumentParser()
     for name in (CAT, LANG):
         parser.add_argument(name, help=f"exercise {name}")
-    parser.add_argument(f"--{ADIR}", help=f"asset {ADIR}", default=DEFAULT_DIR)
     args = vars(parser.parse_args())
-    return args[CAT], args[LANG], args[ADIR]
+    return args[CAT], args[LANG]
 
 
 def csv_to_json(source_path, target_path):
@@ -32,17 +33,15 @@ def csv_to_json(source_path, target_path):
             target_file.write(data_as_json)
 
 if __name__ == "__main__":
-    category, language, assetdir = parse_arguments()
+    category, language = parse_arguments()
     source_path = generate_source_path(category, language)
-
-    if not os.path.exists(assetdir):
-        print(f"The asset path {assetdir} doesn't exist.")
-        raise SystemExit(1)
-    target_path = generate_target_path(assetdir, category, language)
+    target_path = generate_target_path(category, language)
 
     try:
         csv_to_json(source_path, target_path)
         print("Success!")
         print(f"json output in {target_path}")
     except FileNotFoundError:
-        print(f"csv file for category: {category} and language: {language} not found:")
+        cat = f"category: {category}"
+        lang = f"language: {language}"
+        print(f"csv file for {cat} and {lang} not found:")

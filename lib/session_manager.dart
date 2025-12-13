@@ -13,13 +13,17 @@ class SessionManager {
     Random? random,
   }) : _random = random ?? Random();
 
+  SessionManager.fromJson(List<Map<String, dynamic>> json, [Random? random])
+    : _random = random ?? Random(),
+    exercises = [ for (final item in json) Exercise.fromJson(item) ];
+
   Exercise getExercise() {
     List<Exercise> availableExercises = [
-      for (final ex in exercises)
-        if (category == null || ex.category == category)
-        if (category == null || ex.language == language)
-        if (category == null || ex.difficulty == difficulty)
-          ex
+      for (final exercise in exercises)
+        if (category == null || exercise.category == category)
+        if (language == null || exercise.language == language)
+        if (difficulty == null || exercise.difficulty == difficulty)
+          exercise
     ];
     if (availableExercises.isEmpty) {
       throw StateError(

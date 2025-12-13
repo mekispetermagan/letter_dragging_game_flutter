@@ -1,0 +1,4324 @@
+[
+  {
+    "category": "Animals",
+    "word": "lion",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "zebra",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "giraffe",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "leopard",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "crane",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "snake",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "gorilla",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "baboon",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "buffalo",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "chimpanzee",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "monkey",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "impala",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "rhinoceros",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "warthog",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "zebu",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "stork",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "eagle",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "pigeon",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "mongoose",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "lizard",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "crocodile",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "parrot",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "cuckoo",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "elephant",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "bird",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "butterfly",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "firefly",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "bee",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "bumblebee",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "mouse",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "rat",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "ant",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "cockroach",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "rabbit",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "mole",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "bat",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "cheetah",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "hippopotamus",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "gazelle",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "cat",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "dog",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "donkey",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "cow",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "pig",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "hen",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "rooster",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "chicken",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "goat",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "sheep",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "catfish",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "duck",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "goose",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "turkey",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "fox",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "squirrel",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "owl",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "seagull",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "peacock",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "penguin",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "bear",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "jackal",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "wolf",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "boar",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "deer",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "hedgehog",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "llama",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "termite",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "kangaroo",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "panda",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "koala",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "ostrich",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "reindeer",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "whale",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "dolphin",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "tuna",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "horse",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "pony",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "vulture",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "orangutan",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "gibbon",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "moose",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "bison",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "anaconda",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "python",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "seal",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "albatross",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "frog",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "toad",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "camel",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "jaguar",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "porcupine",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "otter",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "eel",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "cobra",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "falcon",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "shark",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "walrus",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "yak",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "crab",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "spider",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "turtle",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "snail",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "dragonfly",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "octopus",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "beaver",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "crow",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "chameleon",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "flamingo",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "ox",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "puppy",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "tiger",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "hyena",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "antelope",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "hippo",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "rhino",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "kitten",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "cock",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "bunny",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "hare",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "piglet",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "lamb",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "calf",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "bull",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "duckling",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "cub",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "poultry",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "fish",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "reptile",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "rodent",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "cattle",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "mosquito",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "earthworm",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "jellyfish",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "beetle",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "alligator",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "flea",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "mite",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "spoonbill",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "caterpillar",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "raccoon",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "badger",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "salamander",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "mule",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Animals",
+    "word": "grasshopper",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+
+
+  {
+    "category": "Good things",
+    "word": "happy",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "happiness",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "joy",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "joyful",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "love",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "lovely",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "loving",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "kind",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "kindness",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "brave",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "courage",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "calm",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "peace",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "peaceful",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "smile",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "smiling",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "cheerful",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "proud",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "pride",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "hope",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "hopeful",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "faith",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "faithful",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "honest",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "honesty",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "loyal",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "loyalty",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "fair",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "fairness",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "polite",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "patient",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "patience",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "gentle",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "friendly",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "friendship",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "forgive",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "forgiveness",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "trust",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "holiday",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "weekend",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "birthday",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "party",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "present",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "gift",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "surprise",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "music",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "song",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "dance",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "laughter",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "joke",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "story",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "game",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "victory",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "rest",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "nap",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "sleep",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "dream",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "rainbow",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "sunshine",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "sunrise",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "sunset",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "star",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "rain",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "shade",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "shelter",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "home",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "family",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "friend",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "hug",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "kiss",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "chapati",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "internet",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "movie",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "football",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "school",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "book",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "river",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "lake",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "garden",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "playground",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "freedom",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "safety",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "health",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "comfort",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "strength",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "energy",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "wisdom",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "respect",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "justice",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "mercy",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "caring",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "sharing",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "unity",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "teamwork",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "success",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "progress",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "welcome",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "blessing",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "miracle",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "talent",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "skill",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "relax",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "laugh",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "cheer",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "smart",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "clever",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "strong",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "safe",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "lucky",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "water",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "food",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "fruit",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "bread",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "rice",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "matooke",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "chocolate",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "sweets",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "biscuit",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "cake",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "juice",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "soda",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "milk",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "tea",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "breakfast",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "lunch",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "dinner",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "snack",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "bed",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "pillow",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "blanket",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "clothes",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "shoes",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "toy",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "ball",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "bicycle",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "radio",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "phone",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "cartoon",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Good things",
+    "word": "rolex",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+
+
+  {
+    "category": "People",
+    "word": "mother",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "mom",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "father",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "dad",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "parent",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "child",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "baby",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "son",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "daughter",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "brother",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "sister",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "cousin",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "uncle",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "aunt",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "husband",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "wife",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "spouse",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "widow",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "widower",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "orphan",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "twins",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "grandpa",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "grandma",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "grandfather",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "grandmother",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "ancestor",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "niece",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "nephew",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "bride",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "groom",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "teacher",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "student",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "doctor",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "nurse",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "farmer",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "driver",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "mechanic",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "carpenter",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "builder",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "fisherman",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "soldier",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "policeman",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "guard",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "lawyer",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "judge",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "singer",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "musician",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "dancer",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "actor",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "artist",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "writer",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "tailor",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "barber",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "chef",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "baker",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "vendor",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "hunter",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "pilot",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "athlete",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "astronaut",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Ugandan",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Kenyan",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Tanzanian",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Rwandan",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Congolese",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Nigerian",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Ethiopian",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Somali",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Sudanese",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Egyptian",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "American",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Canadian",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Brazilian",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Mexican",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "British",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "English",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "French",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "German",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Italian",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Spanish",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Portuguese",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Chinese",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Indian",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Japanese",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Korean",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Russian",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Turkish",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Arab",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "African",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Asian",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Muganda",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Munyankole",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Acholi",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Langi",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Iteso",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Basoga",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Karamojong",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Alur",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Tibetan",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Zulu",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Christian",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Catholic",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Anglican",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Protestant",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Orthodox",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Muslim",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Hindu",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Buddhist",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Jewish",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "Rastafarian",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "kid",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "boy",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "girl",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "youth",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "adult",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "elder",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "stranger",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "friend",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "enemy",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "neighbour",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "guest",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "tourist",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "traveller",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "refugee",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "leader",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "boss",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "helper",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "winner",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "loser",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "hero",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "villain",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "wizard",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "witch",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "ghost",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "giant",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "dwarf",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "king",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "queen",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "prince",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "People",
+    "word": "princess",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+
+
+  {
+    "category": "Places",
+    "word": "home",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "house",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "hut",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "room",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "bedroom",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "kitchen",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "bathroom",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "toilet",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "yard",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "compound",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "garden",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "farm",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "school",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "class",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "classroom",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "office",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "shop",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "market",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "supermarket",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "bank",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "hospital",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "clinic",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "church",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "mosque",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "temple",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "hotel",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "restaurant",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "cafe",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "bar",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "library",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "road",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "street",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "bridge",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "highway",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "path",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "village",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "town",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "city",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "capital",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "park",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "playground",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "stadium",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "theatre",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "cinema",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "busstop",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "station",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "airport",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "harbour",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "border",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "forest",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "jungle",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "bush",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "desert",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "island",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "beach",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "shore",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "hill",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "mountain",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "valley",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "cave",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "field",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "swamp",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "river",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "lake",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "waterfall",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "sea",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "ocean",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "sky",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "space",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "world",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "earth",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Africa",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Europe",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Asia",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "America",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Uganda",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Kenya",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Tanzania",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Rwanda",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Congo",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Sudan",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Egypt",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "China",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "India",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Japan",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Korea",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Russia",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "England",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "France",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Germany",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Italy",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Spain",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Brazil",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Canada",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Kampala",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Entebbe",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Jinja",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Gulu",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Mbarara",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Nairobi",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Dar",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "London",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Paris",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Rome",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Dubai",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Tokyo",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Victoria",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Nile",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Kyoga",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Albert",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Turkana",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "palace",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "castle",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "prison",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "slum",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "township",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "marketplace",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "moon",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "sun",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "planet",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "star",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "galaxy",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "universe",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Mars",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "Jupiter",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "rocket",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "spaceship",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "satellite",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Places",
+    "word": "comet",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+
+
+  {
+    "category": "Shopping",
+    "word": "money",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "coin",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "note",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "price",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "cost",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "shop",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "market",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "supermarket",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "vendor",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "seller",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "buyer",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "customer",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "cash",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "wallet",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "bag",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "basket",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "trolley",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "stall",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "counter",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "bill",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "receipt",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "change",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "discount",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "sale",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "bargain",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "queue",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "milk",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "bongo",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "yoghurt",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "soda",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "juice",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "water",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "tea",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "coffee",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "sugar",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "salt",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "flour",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "rice",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "pasta",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "oil",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "beans",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "peas",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "lentils",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "maize",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "posho",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "bread",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "chapati",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "egg",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "tomato",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "onion",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "garlic",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "cabbage",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "carrot",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "potato",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "irish",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "cassava",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "matoke",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "yam",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "pumpkin",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "spinach",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "pepper",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "cucumber",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "banana",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "plantain",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "pineapple",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "mango",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "orange",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "lemon",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "watermelon",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "papaya",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "avocado",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "apple",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "guava",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "jackfruit",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "passion",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "meat",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "beef",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "pork",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "chicken",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "fish",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "sausage",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "liver",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "offal",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "cup",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "mug",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "glass",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "plate",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "bowl",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "spoon",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "fork",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "knife",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "pot",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "pan",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "kettle",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "jug",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "tray",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "thermos",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "nail",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "screw",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "hammer",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "saw",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "spade",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "hoe",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "rope",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "wire",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "bulb",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "battery",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "torch",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "soap",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "shampoo",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "brush",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "broom",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "mop",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "sponge",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "towel",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "bucket",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "radio",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "phone",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "fan",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "iron",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "stove",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "cooker",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "fridge",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "television",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "charger",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "lamp",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "pants",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "shirt",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "skirt",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "dress",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "shorts",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "sweater",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "jacket",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "coat",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "socks",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "shoes",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "sandals",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "boots",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "hat",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "cap",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "scarf",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "belt",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "uniform",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "matches",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "toothpick",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "razor",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "comb",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "mirror",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "diaper",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "tissue",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "candle",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "sweet",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "candy",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "chocolate",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "biscuit",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "cake",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "cookie",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "chips",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "crisps",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "popcorn",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "icecream",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "lollipop",
+    "difficulty": "Hard",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "gum",
+    "difficulty": "Easy",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "airtime",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "data",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "ticket",
+    "difficulty": "Medium",
+    "language": "English"
+  },
+  {
+    "category": "Shopping",
+    "word": "lottery",
+    "difficulty": "Hard",
+    "language": "English"
+  }
+]

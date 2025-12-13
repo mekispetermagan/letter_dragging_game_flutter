@@ -1,0 +1,63 @@
+Single-exercise app
+┌──┐  ┌──┐
+│MA├──┤SC├────────────┐  MA: main
+└┬─┘  └┬┬┤  ┌──┐      │  SR: screens
+ │     ││└──┤EL│      │  SC: state controller
+ │     ││   └──┘      │  EL: exercise loader
+ │     ││  ┌──┐       │  SM: session manager
+ │     │└──┤SM├────┐  │  SU: string utils
+ │     │   └──┘    │  │  EM: Exercise manager
+ │     │  ┌──┐  ┌──┤  │  MO: models
+ │     └──┤EM├──┤MO├──┘
+ │        └┬─┘  └──┘
+ │  ┌──┐   │  ┌──┐
+ └──┤SR│   └──┤SU│
+    └──┘      └──┘
+
+Imports:
+- MA: SC, SR
+- SC: EL, SM, EM, MO
+- EL: -
+- SM: MO
+- SU: -
+- EM: SU, MO
+- MO: -
+- SR: -
+
+Scaling up: multiple exercise apps integrated in a single app
+┌───┐  ┌───┐
+│MA ├──┤SC │
+└┬┬─┘  └┬┬┬┘
+ ││     ││└───── ...
+ ││     │└───────────────────┐
+ ││    ┌┴──┐                ┌┴──┐
+ ││    │SC1├─────────────┐  │SC2├─────────────┐
+ ││    └┬┬┬┘ ┌───┐       │  └┬┬┬┘ ┌───┐       │
+ ││     ││└──┤EL1│       │   ││└──┤EL2│       │
+ ││     ││   └───┘       │   ││   └───┘       │
+ ││     ││  ┌───┐        │   ││  ┌───┐        │
+ ││     │└──┤SM1├──┐     │   │└──┤SM2├──┐     │
+ ││     │   └───┘  │     │   │   └───┘  │     │
+ ││     │  ┌───┐  ┌┴──┐  │   │  ┌───┐  ┌┴──┐  │
+ ││     └──┤EM1├──┤MO1├──┘   └──┤EM2├──┤MO2├──┘
+ ││        └┬┬─┘  └───┘         └┬┬─┘  └───┘
+ ││ ┌───┐   ││  ┌───┐            ││  ┌───┐
+ │└─┤SR1│   │└──┤U11│            │└──┤U21│
+ │  └───┘   │   └───┘            │   └───┘
+ │  ┌───┐   │   ┌───┐            │   ┌───┐
+ └──┤SR2│   └───┤U12│            └───┤U22│
+    └───┘       └───┘                └───┘
+     ...         ...                  ...
+
+Imports:
+- MA: SC, SR0, ..., SRn             MA:            main modul
+- SC: SC0, ..., SCn                 SR1, SR2, ...: screens
+- SCi: ELi, SMi, EMi, MOi           SC:            main state controller
+- ELi: -                            SC1, Sc2, ...: state controllers
+- SMi: Ui1,...,Uik, MOi             EL1, EL2, ...: exercise loaders
+- Uij: -                            SM1, SM2, ...: session managers
+- EMi: MO,                          U11, U12, ...: utilities
+- MOi: -                            EM1, EM2, ...: exercise managers
+- SRi: -                            MO1, MO2, ...: models
+- 0 <= i <= n
+- 0 <= j <= k

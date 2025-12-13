@@ -17,7 +17,9 @@ class TitleScreen extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.spaceAround,
           crossAxisAlignment: CrossAxisAlignment.center,
           children: <Widget>[
-            Text("Mixed Letters"),
+            TitleText(
+              text: "Mixed Letters",
+            ),
             PrimaryActionButton(
               text: "Start",
               onPressed: onStart
@@ -43,16 +45,19 @@ class SelectScreen extends StatelessWidget {
     final o = onSelect;
     return Scaffold(
       body: SizedBox.expand(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.spaceAround,
-          crossAxisAlignment: CrossAxisAlignment.center,
-          children: <Widget>[
-            for (final option in options)
-            PrimaryActionButton(
-              text: option,
-              onPressed: (o != null) ? () => o(option) : null
-            ),
-          ],
+        child: Padding(
+          padding: const EdgeInsets.symmetric(horizontal: 48, vertical: 0),
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.spaceAround,
+            crossAxisAlignment: CrossAxisAlignment.stretch,
+            children: <Widget>[
+              for (final option in options)
+              PrimaryActionButton(
+                text: option,
+                onPressed: (o != null) ? () => o(option) : null
+              ),
+            ],
+          ),
         ),
       ),
     );
@@ -61,10 +66,18 @@ class SelectScreen extends StatelessWidget {
 
 class ExerciseScreen extends StatelessWidget {
   final void Function(int, int)? onReorder;
+  final String language;
+  final String category;
+  final String difficulty;
+  final int rounds;
   final String _word;
   const ExerciseScreen({
     required this.onReorder,
     required word,
+    required this.language,
+    required this.category,
+    required this.difficulty,
+    required this.rounds,
     super.key
   }) : _word = word ?? "";
 
@@ -77,6 +90,9 @@ class ExerciseScreen extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.spaceAround,
           crossAxisAlignment: CrossAxisAlignment.center,
           children: <Widget>[
+            Text(
+              "Language: $language, category: $category, difficulty: $difficulty, current word: $_word",
+            ),
             SizedBox(
               height: 48,
               child: ReorderableListView(
@@ -94,12 +110,13 @@ class ExerciseScreen extends StatelessWidget {
                     ),
                   );
                 },
-                children: [
+                children: <Widget>[
                   for (int i=0; i<_word.length; i++)
                   LetterCard(index: i, letter: _word[i], key: ValueKey(i))
                 ],
               ),
             ),
+            ScoreArea(score: rounds-1,),
           ],
         ),
       ),
@@ -109,8 +126,10 @@ class ExerciseScreen extends StatelessWidget {
 
 class ResultScreen extends StatelessWidget {
   final VoidCallback? onRestart;
+  final int rounds;
   const ResultScreen({
     required this.onRestart,
+    required this.rounds,
     super.key
   });
 
@@ -122,11 +141,13 @@ class ResultScreen extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.spaceAround,
           crossAxisAlignment: CrossAxisAlignment.center,
           children: <Widget>[
-            Text("The game has ended."),
+            TitleText(text: "Congratulations!\n"
+            "You have collected $rounds gems."),
             PrimaryActionButton(
-              text: "One more?",
+              text: "One more round?",
               onPressed: onRestart
             ),
+            ScoreArea(score: rounds-1,),
           ],
         ),
       ),

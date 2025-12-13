@@ -20,6 +20,7 @@ class StateController {
   ValueNotifier<AppState> state = ValueNotifier<AppState>(AppState.loading);
   late SessionManager sessionManager;
   ExerciseManager? exerciseManager;
+  int _rounds = 0;
   StateController() {
     createSessionManager();
   }
@@ -28,6 +29,19 @@ class StateController {
   List<String> get languages => [for (final v in Language.values) v.label];
   List<String> get categories => [for (final v in Category.values) v.label];
   List<String> get difficulties => [for (final v in Difficulty.values) v.label];
+  String get language {
+    final l = sessionManager.language;
+    return l != null ? l.label : "";
+  }
+  String get category {
+    final c = sessionManager.category;
+    return c != null ? c.label : "";
+  }
+  String get difficulty {
+    final d = sessionManager.difficulty;
+    return d != null ? d.label : "";
+  }
+  int get rounds => _rounds;
 
   Future<void> createSessionManager() async {
     List<Map<String, dynamic>> data = await loadExercises('assets/data/exercises.json');
@@ -40,7 +54,11 @@ class StateController {
   }
 
   void onStart() {
-    state.value = AppState.languageSelect;
+    // Skipping language selection, because ar the moment
+    // there are exercises only for English.
+    // state.value = AppState.languageSelect;
+    sessionManager.language = Language.english;
+    state.value = AppState.categorySelect;
   }
 
   void onLanguageSelect(String language) {
@@ -55,9 +73,7 @@ class StateController {
 
   void onDifficultySelect(String difficulty) {
     sessionManager.difficulty = Difficulty.byLabel(difficulty);
-    final Exercise exercise = sessionManager.getExercise();
-    exerciseManager = ExerciseManager(exercise: exercise);
-    state.value = AppState.solving;
+    _nextRound();
   }
 
   void onReorder(int i, int j) async {
@@ -65,7 +81,7 @@ class StateController {
     if (exerciseManager!.isSolved) {
       state.value = AppState.feedbackCorrect;
       await Future.delayed(const Duration(milliseconds: 500));
-      state.value = AppState.result;
+      _nextRound();
     } else {
       state.value = AppState.feedbackIncorrect;
       await Future.delayed(const Duration(milliseconds: 500));
@@ -73,7 +89,19 @@ class StateController {
     }
   }
 
+  void _nextRound() {
+    _rounds++;
+    if (_rounds < 12) {
+      final Exercise exercise = sessionManager.getExercise();
+      exerciseManager = ExerciseManager(exercise: exercise);
+      state.value = AppState.solving;
+    } else {
+      state.value = AppState.result;
+    }
+  }
+
   void onRestart() {
+    _rounds = 0;
     state.value = AppState.title;
   }
 }

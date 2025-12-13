@@ -10,6 +10,12 @@ class MainApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: HomePage(),
+      theme: ThemeData(
+        colorScheme: ColorScheme.fromSeed(
+          seedColor: Colors.teal,
+          brightness: Brightness.dark,
+        ),
+      ),
     );
   }
 }
@@ -67,18 +73,31 @@ class HomePageState extends State<HomePage> {
       ),
       AppState.solving => ExerciseScreen(
         onReorder: _controller.onReorder,
+        language: _controller.language,
+        category: _controller.category,
+        difficulty: _controller.difficulty,
+        rounds: _controller.rounds,
         word: _controller.currentWord
       ),
       AppState.feedbackCorrect => ExerciseScreen(
         onReorder: null,
+        language: _controller.language,
+        category: _controller.category,
+        difficulty: _controller.difficulty,
+        rounds: _controller.rounds,
         word: _controller.currentWord
       ),
       AppState.feedbackIncorrect => ExerciseScreen(
         onReorder: null,
+        language: _controller.language,
+        category: _controller.category,
+        difficulty: _controller.difficulty,
+        rounds: _controller.rounds,
         word: _controller.currentWord
       ),
       AppState.result => ResultScreen(
         onRestart: _controller.onRestart,
+        rounds: _controller.rounds,
       ),
     };
   }

@@ -57,26 +57,6 @@ int differenceCount(String word1, String word2) {
   return counter;
 }
 
-// TODO: fix moveCharAlt
-String moveCharAlt({
-  required String word,
-  required int from,
-  required int to
-}) {
-    String result = '';
-    int d = 0;
-    for(int i=0; i<word.length; i++) {
-      if (i + d == from) { d -= 1; }
-      else if (i + d == to) {
-        result += word[from];
-        d += 1;
-      } else {
-        result += word[i+d];
-      }
-    }
-    return result;
-      }
-
 void main() {
   group('swap tests', () {
     test('simple cases', () {
@@ -246,20 +226,6 @@ void main() {
       final String case4 = moveChar(word: 'zebra', from: 1, to: 1);
       expect(case4, 'zebra', reason: 'zebra 3 3');
     });
-    // TODO: fix alternative implementation
-    // test('matches alternative implementation', () {
-    //   final Random r = Random(1234);
-    //   for (int i=0; i<100; i++) {
-    //     final int length = r.nextInt(12)+2;
-    //     final String word = randomWord(length, r);
-    //     final int from = r.nextInt(length);
-    //     final int to = r.nextInt(length);
-    //     expect(
-    //       moveChar(word: word, from: from, to: to),
-    //       moveCharAlt(word: word, from: from, to: to)
-    //     );
-    //   }
-    // });
   });
 
 }

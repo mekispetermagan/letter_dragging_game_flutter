@@ -88,22 +88,36 @@ String shuffle({
 // 01234      0123     01234
 //    ^from    ^ins     ^to
 //
+// String moveChar({
+//   required String word,
+//   required int from,
+//   required int to
+//   }) {
+//     if (to < from) {
+//       return word.substring(0, to) +
+//              word[from] +
+//              word.substring(to, from) +
+//              word.substring(from+1);
+//     }
+//     if (from < to) {
+//       return word.substring(0, from) +
+//              word.substring(from+1, to+1) +
+//              word[from] +
+//              word.substring(to+1);
+//     }
+//     return word;
+//   }
 String moveChar({
   required String word,
   required int from,
   required int to
-  }) {
-    if (to < from) {
-      return word.substring(0, to) +
-             word[from] +
-             word.substring(to, from) +
-             word.substring(from+1);
-    }
-    if (from < to) {
-      return word.substring(0, from) +
-             word.substring(from+1, to+1) +
-             word[from] +
-             word.substring(to+1);
-    }
-    return word;
-  }
+}) {
+  if (from < 0 || from >= word.length) throw RangeError.index(from, word, 'from');
+  if (to < 0 || to > word.length) throw RangeError.index(to, word, 'to');
+
+  final ch = word[from];
+  var t = word.substring(0, from) + word.substring(from + 1);
+
+  if (to > from) to -= 1; // j is after removal
+  return t.substring(0, to) + ch + t.substring(to);
+}

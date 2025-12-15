@@ -215,12 +215,12 @@ void main() {
 
   group('moveChar tests', () {
     test('simple cases', () {
-      final String case0 = moveChar(word: 'azebr', from: 0, to: 4);
-      expect(case0, 'zebra', reason: 'azebr 0 4');
+      final String case0 = moveChar(word: 'azebr', from: 0, to: 5);
+      expect(case0, 'zebra', reason: 'azebr 0 5');
       final String case1 = moveChar(word: 'ebraz', from: 4, to: 0);
       expect(case1, 'zebra', reason: 'ebraz 4 0');
-      final String case2 = moveChar(word: 'zerba', from: 2, to: 3);
-      expect(case2, 'zebra', reason: 'zerba 2 3');
+      final String case2 = moveChar(word: 'zerba', from: 2, to: 4);
+      expect(case2, 'zebra', reason: 'zerba 2 4');
       final String case3 = moveChar(word: 'zbrea', from: 3, to: 1);
       expect(case3, 'zebra', reason: 'zbrea 3 1');
       final String case4 = moveChar(word: 'zebra', from: 1, to: 1);

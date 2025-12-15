@@ -10,11 +10,13 @@ dependencies:
   flutter:
     sdk: flutter
   meta: ^1.15.0
+  audioplayers: ^6.1.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.13.1
 
 flutter:
   uses-material-design: true
@@ -22,3 +24,8 @@ flutter:
     - assets/data/
     - assets/audio/
     - assets/images/
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/cover_image.png"

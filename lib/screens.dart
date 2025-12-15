@@ -20,6 +20,10 @@ class TitleScreen extends StatelessWidget {
             TitleText(
               text: "Mixed Letters",
             ),
+            Image(
+              image: AssetImage("assets/images/cover_image.png"),
+              width: 300,
+            ),
             PrimaryActionButton(
               text: "Start",
               onPressed: onStart
@@ -90,11 +94,13 @@ class ExerciseScreen extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.spaceAround,
           crossAxisAlignment: CrossAxisAlignment.center,
           children: <Widget>[
+
             Text(
               "Language: $language, category: $category, difficulty: $difficulty, current word: $_word",
             ),
             SizedBox(
               height: 48,
+              width: 52.0*_word.length,
               child: ReorderableListView(
                 buildDefaultDragHandles: false,
                 scrollDirection: Axis.horizontal,

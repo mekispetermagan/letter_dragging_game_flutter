@@ -3,6 +3,7 @@ import 'package:letterdragging/exercise_loader.dart';
 import 'package:letterdragging/models.dart';
 import 'package:letterdragging/session_manager.dart';
 import 'package:letterdragging/exercise_manager.dart';
+import 'package:letterdragging/audio.dart';
 
 enum AppState {
   loading,
@@ -24,6 +25,7 @@ class StateController {
   StateController() {
     createSessionManager();
   }
+  Player _player = Player();
 
   String? get currentWord => exerciseManager?.currentWord;
   List<String> get languages => [for (final v in Language.values) v.label];
@@ -54,6 +56,7 @@ class StateController {
   }
 
   void onStart() {
+    _player.pop();
     // Skipping language selection, because ar the moment
     // there are exercises only for English.
     // state.value = AppState.languageSelect;
@@ -62,16 +65,19 @@ class StateController {
   }
 
   void onLanguageSelect(String language) {
+    _player.pop();
     sessionManager.language = Language.byLabel(language);
     state.value = AppState.categorySelect;
   }
 
   void onCategorySelect(String category) {
+    _player.pop();
     sessionManager.category = Category.byLabel(category);
     state.value = AppState.difficultySelect;
   }
 
   void onDifficultySelect(String difficulty) {
+    _player.pop();
     sessionManager.difficulty = Difficulty.byLabel(difficulty);
     _nextRound();
   }
@@ -79,10 +85,12 @@ class StateController {
   void onReorder(int i, int j) async {
     exerciseManager?.moveLetter(i, j);
     if (exerciseManager!.isSolved) {
+      _player.correct();
       state.value = AppState.feedbackCorrect;
       await Future.delayed(const Duration(milliseconds: 500));
       _nextRound();
     } else {
+      _player.pop();
       state.value = AppState.feedbackIncorrect;
       await Future.delayed(const Duration(milliseconds: 500));
       state.value = AppState.solving;
@@ -96,12 +104,14 @@ class StateController {
       exerciseManager = ExerciseManager(exercise: exercise);
       state.value = AppState.solving;
     } else {
+      _player.fanfare();
       state.value = AppState.result;
     }
   }
 
   void onRestart() {
     _rounds = 0;
+    _player.pop();
     state.value = AppState.title;
   }
 }

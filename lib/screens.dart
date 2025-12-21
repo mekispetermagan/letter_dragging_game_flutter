@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/foundation.dart';
+import 'package:letterdragging/countdown_widgets.dart';
 import 'package:letterdragging/widgets.dart';
+import 'package:letterdragging/countdown_logic.dart' show CountdownStatus;
 
 
 class TitleScreen extends StatelessWidget {
@@ -70,60 +73,87 @@ class SelectScreen extends StatelessWidget {
 
 class ExerciseScreen extends StatelessWidget {
   final void Function(int, int)? onReorder;
+  final VoidCallback onPass;
   final String language;
   final String category;
   final String difficulty;
   final int rounds;
   final String _word;
+  final CountdownStatus countdownStatus;
+  final String? debugMessage;
   const ExerciseScreen({
     required this.onReorder,
-    required word,
+    required this.onPass,
+    required String? word,
     required this.language,
     required this.category,
     required this.difficulty,
     required this.rounds,
+    required this.countdownStatus,
+    this.debugMessage,
     super.key
   }) : _word = word ?? "";
 
   @override
   Widget build(BuildContext context) {
+    final ColorScheme cs = Theme.of(context).colorScheme;
     final oR = onReorder;
     return Scaffold(
       body: SizedBox.expand(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.spaceAround,
-          crossAxisAlignment: CrossAxisAlignment.center,
-          children: <Widget>[
+        child: Padding(
+          padding: const EdgeInsets.symmetric(
+            horizontal: 12,
+            vertical: 36,
+          ),
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+            crossAxisAlignment: CrossAxisAlignment.center,
+            children: <Widget>[
+              if (kDebugMode) Text(debugMessage ?? ""),
 
-            Text(
-              "Language: $language, category: $category, difficulty: $difficulty, current word: $_word",
-            ),
-            SizedBox(
-              height: 48,
-              width: 52.0*_word.length,
-              child: ReorderableListView(
-                buildDefaultDragHandles: false,
-                scrollDirection: Axis.horizontal,
-                onReorder: (oR != null)
-                  ? (int i, int j) => oR(i, j)
-                  : (int i, int j) {},
-                proxyDecorator: (Widget child, int index, Animation<double> animation) {
-                  return ClipRRect(
-                    borderRadius: BorderRadius.circular(16),
-                    child: Material(
-                      elevation: 6,
-                      child: child,
-                    ),
-                  );
-                },
-                children: <Widget>[
-                  for (int i=0; i<_word.length; i++)
-                  LetterCard(index: i, letter: _word[i], key: ValueKey(i))
-                ],
+              Text(
+                "$category: $difficulty",
+                style: TextStyle(
+                  fontSize: 24,
+                  color: cs.onSurface,
+                ),
               ),
-            ),
-            ScoreArea(score: rounds-1,),
-          ],
+
+              SizedBox(
+                height: 48,
+                width: 52.0*_word.length,
+                child: ReorderableListView(
+                  buildDefaultDragHandles: false,
+                  scrollDirection: Axis.horizontal,
+                  onReorder: (oR != null)
+                    ? (int i, int j) => oR(i, j)
+                    : (int i, int j) {},
+                  proxyDecorator: (Widget child, int index, Animation<double> animation) {
+                    return ClipRRect(
+                      borderRadius: BorderRadius.circular(16),
+                      child: Material(
+                        elevation: 6,
+                        child: child,
+                      ),
+                    );
+                  },
+                  children: <Widget>[
+                    for (int i=0; i<_word.length; i++)
+                    LetterCard(index: i, letter: _word[i], key: ValueKey(i))
+                  ],
+                ),
+              ),
+
+              PrimaryActionButton(text: "Pass", onPressed: onPass),
+
+              CountdownTimer(
+                status: countdownStatus,
+                baseSize: 30
+              ),
+
+              ScoreArea(score: rounds-1,),
+            ],
+          ),
         ),
       ),
     );

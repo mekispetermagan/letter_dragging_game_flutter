@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/scheduler.dart';
+// import 'package:letterdragging/countdown_logic.dart' show CountdownStatus;
 import 'package:letterdragging/state_controller.dart';
 import 'package:letterdragging/screens.dart';
 
@@ -12,7 +14,7 @@ class MainApp extends StatelessWidget {
       home: HomePage(),
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(
-          seedColor: Colors.teal,
+          seedColor: Colors.lightBlueAccent,
           brightness: Brightness.dark,
         ),
       ),
@@ -29,19 +31,24 @@ class HomePage extends StatefulWidget {
   }
 }
 
-class HomePageState extends State<HomePage> {
+class HomePageState extends State<HomePage> with SingleTickerProviderStateMixin {
   final StateController _controller = StateController();
+  late final Ticker _ticker;
   HomePageState();
 
   @override
   void initState() {
     _controller.state.addListener(_onStateChanged);
+    _ticker = createTicker(
+      (elapsed) => setState(() => _controller.onTick(elapsed.inMilliseconds))
+    )..start();
     super.initState();
   }
 
   @override
   void dispose() {
     _controller.state.removeListener(_onStateChanged);
+    _ticker.dispose();
     super.dispose();
   }
 
@@ -56,45 +63,62 @@ class HomePageState extends State<HomePage> {
       AppState.loading => TitleScreen(
         onStart: null
       ),
+
       AppState.title => TitleScreen(
         onStart: _controller.onStart
       ),
+
       AppState.languageSelect => SelectScreen(
         onSelect: _controller.onLanguageSelect,
         options: _controller.languages
       ),
+
       AppState.categorySelect => SelectScreen(
         onSelect: _controller.onCategorySelect,
         options: _controller.categories
       ),
+
       AppState.difficultySelect => SelectScreen(
         onSelect: _controller.onDifficultySelect,
         options: _controller.difficulties
       ),
+
       AppState.solving => ExerciseScreen(
         onReorder: _controller.onReorder,
+        onPass: _controller.nextRound,
         language: _controller.language,
         category: _controller.category,
         difficulty: _controller.difficulty,
         rounds: _controller.rounds,
-        word: _controller.currentWord
+        word: _controller.currentWord,
+        countdownStatus: _controller.countdownStatus,
+        debugMessage: "",
       ),
+
       AppState.feedbackCorrect => ExerciseScreen(
         onReorder: null,
+        onPass: _controller.nextRound,
         language: _controller.language,
         category: _controller.category,
         difficulty: _controller.difficulty,
         rounds: _controller.rounds,
-        word: _controller.currentWord
+        word: _controller.currentWord,
+        countdownStatus: _controller.countdownStatus,
+        debugMessage: "",
       ),
+
       AppState.feedbackIncorrect => ExerciseScreen(
         onReorder: null,
+        onPass: _controller.nextRound,
         language: _controller.language,
         category: _controller.category,
         difficulty: _controller.difficulty,
         rounds: _controller.rounds,
-        word: _controller.currentWord
+        word: _controller.currentWord,
+        countdownStatus: _controller.countdownStatus,
+        debugMessage: "",
       ),
+
       AppState.result => ResultScreen(
         onRestart: _controller.onRestart,
         rounds: _controller.rounds,

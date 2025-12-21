@@ -18,11 +18,12 @@ class SessionManager {
     exercises = [ for (final item in json) Exercise.fromJson(item) ];
 
   Exercise getExercise() {
+    final c = category, l = language, d = difficulty;
     List<Exercise> availableExercises = [
       for (final exercise in exercises)
-        if (category == null || exercise.category == category)
-        if (language == null || exercise.language == language)
-        if (difficulty == null || exercise.difficulty == difficulty)
+        if (c == null || exercise.category == c)
+        if (l == null || exercise.language == l)
+        if (d == null || exercise.difficulty.level <= d.level)
           exercise
     ];
     if (availableExercises.isEmpty) {

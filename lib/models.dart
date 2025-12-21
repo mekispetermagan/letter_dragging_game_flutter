@@ -1,7 +1,8 @@
 enum Language {
   english("English"),
   luganda("Luganda"),
-  runyankole("Runyankole");
+  // runyankole("Runyankole"),
+  hungarian("Hungarian");
   final String label;
   const Language(this.label);
 

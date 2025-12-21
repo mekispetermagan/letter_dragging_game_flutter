@@ -27,12 +27,24 @@ Imports:
 - STC: EXL, AUD, SEM, EXM, CDM, MOD
 - EXL: -
 - SEM: MOD
-- STU: -
 - EXM: STU, MOD
+- STU: -
 - MOD: -
 - SCR: WID, CDW
 - WID: -
 - CDW: -
+
+Imports:
+- main: state controller, screens
+- state controller: exercise loader, audio, session manager, exercise manager, countdown manager, models
+- exercise loader: -
+- session manager: models
+- exercise manager: string utils, models
+- string utils: -
+- models: -
+- screens: widgets, countdown widgets
+- widgets: -
+- countdown widgets: -
 
 Scaling up: multiple exercise apps integrated in a single app
 ┌───┐  ┌───┐

@@ -1,4 +1,6 @@
 import 'dart:math';
+import 'package:letterdragging/exercise_manager.dart';
+
 import 'models.dart';
 
 class SessionManager {
@@ -7,15 +9,23 @@ class SessionManager {
   Language? language;
   Difficulty? difficulty;
   final Random _random;
+  final Map<Language, Set<Category>> availableCategories = {};
 
   SessionManager({
     required this.exercises,
     Random? random,
-  }) : _random = random ?? Random();
+  }) : _random = random ?? Random() {
+    _getAvailableCategories();
+  }
 
-  SessionManager.fromJson(List<Map<String, dynamic>> json, [Random? random])
-    : _random = random ?? Random(),
-    exercises = [ for (final item in json) Exercise.fromJson(item) ];
+  String get debugMessage => "${exercises.length}";
+
+  factory SessionManager.fromJson(List<Map<String, dynamic>> json, [Random? random]) {
+    final exercises = [ for (final item in json) Exercise.fromJson(item) ];
+    return SessionManager(exercises: exercises, random: random);
+  }
+
+  Set<Category> get categoryOptions => availableCategories[language] ?? {};
 
   Exercise getExercise() {
     final c = category, l = language, d = difficulty;
@@ -34,6 +44,20 @@ class SessionManager {
     }
     final Exercise chosenExercise = availableExercises[_random.nextInt(availableExercises.length)];
     return chosenExercise;
+  }
+
+  void _getAvailableCategories() {
+    print("Hello!!! ${exercises.length}");
+    for (final ex in exercises) {
+      final lang = ex.language;
+      final cat = ex.category;
+      final cats = availableCategories[lang];
+      if (cats == null) {
+        availableCategories[lang] = {cat};
+      } else {
+        cats.add(cat);
+      }
+    }
   }
 
 }

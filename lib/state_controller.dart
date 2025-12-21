@@ -29,12 +29,13 @@ class StateController {
     createSessionManager();
   }
 
-
   String? get currentWord => exerciseManager?.currentWord;
 
   List<String> get languages => [for (final v in Language.values) v.label];
 
-  List<String> get categories => [for (final v in Category.values) v.label];
+  List<String> get categories => [
+    for (final cat in sessionManager.categoryOptions) cat.label
+  ];
 
   List<String> get difficulties => [for (final v in Difficulty.values) v.label];
 
@@ -69,11 +70,7 @@ class StateController {
 
   void onStart() {
     _player.pop();
-    // Skipping language selection, because ar the moment
-    // there are exercises only for English.
-    // state.value = AppState.languageSelect;
-    sessionManager.language = Language.english;
-    state.value = AppState.categorySelect;
+    state.value = AppState.languageSelect;
   }
 
   void onLanguageSelect(String language) {
@@ -133,7 +130,7 @@ class StateController {
     state.value = AppState.solving;
   }
 
-  _onGameOver() {
+  void _onGameOver() {
       _player.fanfare();
       state.value = AppState.result;
   }

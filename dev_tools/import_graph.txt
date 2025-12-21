@@ -1,28 +1,38 @@
-Single-exercise app
-┌──┐  ┌──┐
-│MA├──┤SC├────────────┐  MA: main
-└┬─┘  └┬┬┤  ┌──┐      │  SR: screens
- │     ││└──┤EL│      │  SC: state controller
- │     ││   └──┘      │  EL: exercise loader
- │     ││  ┌──┐       │  SM: session manager
- │     │└──┤SM├────┐  │  SU: string utils
- │     │   └──┘    │  │  EM: Exercise manager
- │     │  ┌──┐  ┌──┤  │  MO: models
- │     └──┤EM├──┤MO├──┘
- │        └┬─┘  └──┘
- │  ┌──┐   │  ┌──┐
- └──┤SR│   └──┤SU│
-    └──┘      └──┘
+Import graph for exercise apps:
 
+Single-exercise app
+┌────┐  ┌───┐
+│MAIN├──┤STC├──────────────┐  MAIN: main
+└┬───┘  ├┬┬┬┤      ┌───┐   │  SCR: screens
+ │      ││││└──────┤EXL│   │  WID: widgets
+ │      ││││ ┌───┐ └───┘   │  CDW: countdown widgets
+ │      │││└─┤SEM├──┐      │  STC: state controller
+ │      │││  └───┘  │      │  EXL: exercise loader
+ │      │││  ┌───┐  ├───┐  │  AUD: audio
+ │      ││└──┤EXM├──┤MOD├──┘  SEM: session manager
+ │      ││   └┬──┘  └───┘     EXM: exercise manager
+ │      ││    │  ┌───┐        CDM: countdown manager
+ │      ││    └──┤STU│        STU: string utils
+ │      ││ ┌───┐ └───┘        MOD: models
+ │      │└─┤CDM│
+ │      │  └───┘ ┌───┐
+ │      └────────┤AUD│
+ │  ┌───┐  ┌───┐ └───┘
+ └──┤SCR├──┤WID│
+    └┬──┘  └───┘ ┌───┐
+     └───────────┤CDW│
+                 └───┘
 Imports:
-- MA: SC, SR
-- SC: EL, SM, EM, MO
-- EL: -
-- SM: MO
-- SU: -
-- EM: SU, MO
-- MO: -
-- SR: -
+- MAIN: STC, SCR
+- STC: EXL, AUD, SEM, EXM, CDM, MOD
+- EXL: -
+- SEM: MOD
+- STU: -
+- EXM: STU, MOD
+- MOD: -
+- SCR: WID, CDW
+- WID: -
+- CDW: -
 
 Scaling up: multiple exercise apps integrated in a single app
 ┌───┐  ┌───┐

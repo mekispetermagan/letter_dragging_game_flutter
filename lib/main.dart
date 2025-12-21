@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
-// import 'package:letterdragging/countdown_logic.dart' show CountdownStatus;
 import 'package:letterdragging/state_controller.dart';
 import 'package:letterdragging/screens.dart';
 
